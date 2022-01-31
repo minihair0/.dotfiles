@@ -10,7 +10,7 @@ nix-env -iA \
 	nixpkgs.neovim \
 	nixpkgs.stow \
 	nixpkgs.ripgrep \
-
+    nixpkgs.micro \
 
 # stow
 stow git
